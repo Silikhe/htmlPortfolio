@@ -65,6 +65,12 @@ header {
   width: 5rem;
 }
 
+.nav-brand h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: xx-large;
+  }
+
 nav {
   width: 100%;
   display: flex;
@@ -599,3 +605,8 @@ footer a {
     font-size: 1.2rem;
   }
 }
+
+/* .myName{
+    font: bold;
+    font-size: xx-large;
+} */
